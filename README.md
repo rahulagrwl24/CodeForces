@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 10 |
+| 19 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -24,6 +25,12 @@
 - [strings](#strings) (6)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### brute force
 
