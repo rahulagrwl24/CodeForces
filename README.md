@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 28 | 11 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (9)
@@ -45,6 +45,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1862B | [Игра в последовательность](https://codeforces.com/contest/1862/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1862/B%20-%20%D0%98%D0%B3%D1%80%D0%B0%20%D0%B2%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
