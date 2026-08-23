@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 11 |
+| 31 | 11 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dfs and similar](#dfs-and-similar) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (7)
-- [math](#math) (13)
+- [math](#math) (14)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
@@ -71,6 +71,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 1857A | [Раскраска массива](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1857/A%20-%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0/solution.cpp) |
 | 1858A | [Кнопки](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1858/A%20-%20%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B8/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
@@ -99,6 +100,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1857A | [Раскраска массива](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1857/A%20-%20%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0/solution.cpp) |
 | 1858A | [Кнопки](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1858/A%20-%20%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B8/solution.cpp) |
 | 1859A | [Вместе мы сила](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1859/A%20-%20%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%B5%20%D0%BC%D1%8B%20%D1%81%D0%B8%D0%BB%D0%B0/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/rahulagrwl24/CodeForces/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
